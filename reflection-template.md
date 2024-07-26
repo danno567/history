@@ -1,5 +1,5 @@
 # Title: Lecture Reflection – [Lecture Title]
-## Date:
+### Date:
 ### Link: 
 
 ## Summary:
